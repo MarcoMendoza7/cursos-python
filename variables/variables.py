@@ -6,5 +6,11 @@
 #listas, tuplas, arreglos, etc, etc, etc. 
 #NOTA = :)
 
-nombre = "Marco"
-print (nombre)
+nombre_dos = "Antonio"
+print (nombre_dos)
+
+nombre = (input("Ingresa tu nombre por favor ..."))
+edad = int(input("Ingresa tu edad por favor ..."))
+
+(print("Hola " + nombre + " bienvenido. " +
+       "Tu edad es "+ str(edad)))
