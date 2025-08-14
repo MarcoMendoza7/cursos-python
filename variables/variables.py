@@ -17,3 +17,5 @@ edad = int(input("Ingresa tu edad por favor ..."))
 
 #Ejemplo de recopilacion de datos.
 
+# 15 K == "Una carta lvl 15"
+
