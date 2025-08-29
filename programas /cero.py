@@ -25,4 +25,3 @@ for i in range(3):
 for p in personas:
     p.saludar() 
     
-    #
