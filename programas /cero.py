@@ -1,4 +1,5 @@
-"""Haz un programa que:
+"""
+Haz un programa que:
 
 Pida el nombre y edad de la persona.
 Guarde en un objeto Persona.
