@@ -1,4 +1,5 @@
 """
+
 Haz un programa que:
 
 Pida el nombre y edad de la persona.
